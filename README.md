@@ -3,6 +3,17 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4b2c70&size=35&center=true&vCenter=true&width=1000&lines=BEMVINDO,+Portifólio+de+Pedro+Levi;+Estudante+do+curso+Engenharia+de+Software;+Estudos+e+Pesquisas+voltados+ao+Backend;+:%29)](https://git.io/typing-svg) 
 
+<p align="center">
+  <img
+    src="https://github.com/user-attachments/assets/c4c11be4-070b-49bd-a067-b3e0bb73ae22"
+    alt="Imagem destaque"
+    width="85%"
+    style="border-radius:12px; margin: 30px 0;"
+  >
+</p>
+
+
+
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=levisomeone&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="levisomeone github stats"/> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=levisomeone&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
