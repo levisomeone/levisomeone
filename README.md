@@ -35,7 +35,7 @@
 
 
   <!---Instagram -->
-  <a href="https://www.instagram.com/alv4rezz__/" target="_blank">
+  <a href="https://www.instagram.com/pedrolevi13/?next=%2F/" target="_blank">
     <img
       src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
       style="margin: 0 6px;"
@@ -43,7 +43,7 @@
     >
   </a>
 
-<a href="mailto:seuemail@gmail.com">
+<a href="mailto:pedrolevipereira13@gmail.com">
   <img
     src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
     style="margin: 0 6px;"
