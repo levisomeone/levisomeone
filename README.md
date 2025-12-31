@@ -15,9 +15,19 @@
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=levisomeone&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="levisomeone github stats"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=levisomeone&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+  <img
+    width="49%"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=levisomeone&show_icons=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117"
+    alt="levisomeone github stats"
+  />
+  <img
+    width="41%"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=levisomeone&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117"
+    alt="Top Languages"
+  />
 </div>
+
+
 
 ![GitHub Contributions](https://ghchart.rshah.org/7c3aed/levisomeone)
 [![Gráfico de commits](https://github-readme-activity-graph.vercel.app/graph?username=levisomeone&bg_color=0d1117&color=a855f7&line=9333ea&point=c084fc&area=true&area_color=7c3aed&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
