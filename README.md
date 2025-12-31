@@ -21,10 +21,10 @@
     alt="levisomeone github stats"
   />
   <img
-    width="41%"
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=levisomeone&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117"
-    alt="Top Languages"
-  />
+  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=levisomeone&layout=compact&langs_count=8&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117"
+  alt="Top Languages"
+/>
+
 </div>
 
 
