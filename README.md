@@ -21,7 +21,7 @@
     alt="levisomeone github stats"
   />
   <img
-  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=levisomeone&layout=compact&langs_count=8&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117"
+  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=levisomeone&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=00bfbf&text_color=c9d1d9&icon_color=00bfbf"
   alt="Top Languages"
 />
 
