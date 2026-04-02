@@ -68,23 +68,20 @@
 
 ### Habilidades Principais:
 ![Lang C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)&nbsp;
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)&nbsp;
+![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00&labelColor=0D1117)
 ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)&nbsp;
 
- 
 ### Ferramentas:
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visual-studio&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
-![Canva](https://img.shields.io/badge/-Canva-0D1117?style=for-the-badge&logo=canva&logoColor=00C4CC&labelColor=0D1117)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032&labelColor=0D1117)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&logoColor=00A4EF&labelColor=0D1117)&nbsp;
-![Microsoft%20Office](https://img.shields.io/badge/-Microsoft%20Office-0D1117?style=for-the-badge&logo=microsoft-office&logoColor=EA3E23&labelColor=0D1117)&nbsp;
+![Microsoft 365](https://img.shields.io/badge/-Microsoft%20365-0D1117?style=for-the-badge&logo=microsoft&logoColor=EA3E23&labelColor=0D1117)
+![Neovim](https://img.shields.io/badge/-Neovim-0D1117?style=for-the-badge&logo=neovim&logoColor=57A143&labelColor=0D1117)
 
  
 ### Outros Conhecimentos:
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![Canva](https://img.shields.io/badge/-Canva-0D1117?style=for-the-badge&logo=canva&logoColor=00C4CC&labelColor=0D1117)
+![HTML & CSS](https://img.shields.io/badge/-HTML%20%26%20CSS-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26&labelColor=0D1117)
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=0D1117)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1&labelColor=0D1117)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-0D1117?style=for-the-badge&logo=figma&logoColor=F24E1E&labelColor=0D1117)&nbsp;
@@ -92,6 +89,7 @@
 ![Apache](https://img.shields.io/badge/-Apache-0D1117?style=for-the-badge&logo=apache&logoColor=D22128&labelColor=0D1117)&nbsp;
   
 ### Estudando/Revisando...:
+![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00&labelColor=0D1117)
 ![Lang C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)&nbsp;
 ![C#](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=512BD4&labelColor=0D1117)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=php&logoColor=777BB4&labelColor=0D1117)&nbsp;
