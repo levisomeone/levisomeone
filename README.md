@@ -64,6 +64,7 @@
 
 </p>
 
+[![AWS Badge](https://images.credly.com/size/340x340/images/5d8b9c9f-3b0e-4f3b-b5b2-9c8f5c5c1a4d/image.png)](https://www.credly.com/badges/6a4279a2-03b9-4d45-b1f6-d77edae4e1c7/public_url)
 
 
 ### Habilidades Principais:
