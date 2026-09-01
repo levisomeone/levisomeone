@@ -33,7 +33,7 @@
 ![GitHub Contributions](https://ghchart.rshah.org/7c3aed/levisomeone)
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/pedro-levi-pereira-da-silva-11944b352/" target="_blank">
+  <a href="www.linkedin.com/in/pedro-levi-levisomeone" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" style="margin: 0 6px;" alt="LinkedIn">
   </a>
   <a href="https://www.instagram.com/pedrolevi13/?next=%2F/" target="_blank">
