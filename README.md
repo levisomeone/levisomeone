@@ -15,12 +15,12 @@
 <div align="center">
   <img
     width="49%"
-    src="./profile-summary-card-output/github_dark/3-stats.svg"
+    src="https://raw.githubusercontent.com/levisomeone/levisomeone/main/profile-summary-card-output/github_dark/3-stats.svg"
     alt="levisomeone github stats"
   />
   <img
     width="49%"
-    src="./profile-summary-card-output/github_dark/2-most-commit-language.svg"
+    src="https://raw.githubusercontent.com/levisomeone/levisomeone/main/profile-summary-card-output/github_dark/2-most-commit-language.svg"
     alt="Top Languages"
   />
 </div>
