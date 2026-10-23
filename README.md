@@ -11,15 +11,16 @@
   >
 </p>
 
+<!-- Cards gerados pela GitHub Action (.github/workflows/profile-summary.yml) -->
 <div align="center">
   <img
     width="49%"
-    src="https://github-readme-stats-zeta-ten-70.vercel.app/api?username=levisomeone&show_icons=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117"
+    src="./profile-summary-card-output/github_dark/3-stats.svg"
     alt="levisomeone github stats"
   />
   <img
     width="49%"
-    src="https://github-readme-stats-zeta-ten-70.vercel.app/api/top-langs/?username=levisomeone&layout=compact&langs_count=8&hide=html,css&hide_border=true&bg_color=0d1117&title_color=00bfbf&text_color=c9d1d9&icon_color=00bfbf"
+    src="./profile-summary-card-output/github_dark/2-most-commit-language.svg"
     alt="Top Languages"
   />
 </div>
@@ -70,7 +71,6 @@
 ![Canva](https://img.shields.io/badge/-Canva-0D1117?style=for-the-badge&logo=canva&logoColor=00C4CC&labelColor=0D1117)&nbsp;
 
 ### 📚 Outros Conhecimentos
-![Canva](https://img.shields.io/badge/-Canva-0D1117?style=for-the-badge&logo=canva&logoColor=00C4CC&labelColor=0D1117)&nbsp;
 ![HTML & CSS](https://img.shields.io/badge/-HTML%20%26%20CSS-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26&labelColor=0D1117)&nbsp;
 ![Apache](https://img.shields.io/badge/-Apache-0D1117?style=for-the-badge&logo=apache&logoColor=D22128&labelColor=0D1117)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=php&logoColor=777BB4&labelColor=0D1117)&nbsp;
@@ -86,10 +86,5 @@
 ![OneCompiler](https://img.shields.io/badge/-OneCompiler-0D1117?style=for-the-badge&logo=code&logoColor=22C55E&labelColor=0D1117)&nbsp;
 ![LeetCode](https://img.shields.io/badge/-LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=0D1117)&nbsp;
 ![StackOverflow](https://img.shields.io/badge/-Stack%20Overflow-0D1117?style=for-the-badge&logo=stackoverflow&logoColor=F58025&labelColor=0D1117)&nbsp;
-
-<!-- <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{MatheusAlvarez}/count.svg" /></p>
-<br></div> -->
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4b2c70&height=120&section=footer"/>
